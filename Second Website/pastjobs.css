@@ -1,0 +1,87 @@
+#Header {
+	background-color: #A6ACAF;
+	padding: 10px;
+	border-style: solid;
+	margin: 10px;
+	width: 1215px;
+	height: 50px;
+	text-align: center;
+	padding-bottom: 40px;
+}
+#Nav {
+	float: left;
+	width: 260px;
+	background-color: #A6ACAF;
+	height: 390px;
+	border-style: solid;
+	margin-right: 20px;
+	margin-left: 10px;
+	text-indent: 20px;
+	padding-left: 0px;
+}
+#Nav_Links:link {
+	color: #F1C40F;
+
+}
+#Nav_Links:visited {
+	color: #9A7D0A;
+}
+#Nav_Links:hover {
+	color: #F4D03F;
+}
+#Nav_Links:active {
+	color: #F1C40F;
+}
+#Nav_Writing {
+	background-color: #616A6B;
+	padding-right: 10px;
+	padding-left: 10px;
+	width: 170px;
+	margin-left: auto;
+	margin-right: auto;
+	height: 260px;
+	font-size: 20;
+	line-height: 2;
+	border-style: double;
+	margin-top: 50px;
+	padding-bottom: 29px;
+}
+#Nav {
+	float: left;
+	width: 260px;
+	background-color: #A6ACAF;
+	height: 390px;
+	border-style: solid;
+	margin-right: 20px;
+	margin-left: 10px;
+	text-indent: 20px;
+	padding-left: 0px;
+}
+#Content {
+	width: 745px;
+	background-color: #A6ACAF;
+	border-style: solid;
+	margin-top: 5px;
+	text-indent: 10px;
+	padding-top: 10px;
+	height: 370px;
+	margin-left: 200px;
+	padding-right: 100px;
+	padding-left: 200px;
+	padding-bottom: 10px;
+	text-align: center;
+}
+body {
+	background-color: #909497;
+}
+#ArtsTech {
+	width: 300px;
+}
+#Footer {
+	clear: both;
+	background-color: #A6ACAF;
+	margin-top: 40px;
+	border-style: solid;
+	margin-right: 12px;
+	margin-left: 12px;
+}

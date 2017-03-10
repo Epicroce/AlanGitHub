@@ -34,12 +34,14 @@
 	padding-right: 200px;
 	padding-left: 100px;
 	padding-bottom: 10px;
-}#Footer {
+}
+#Footer {
 	clear: both;
 	background-color: #A6ACAF;
 	margin-top: 40px;
 	border-style: solid;
-
+	margin-right: 12px;
+	margin-left: 12px;
 }
 #Writing {
 	background-color: #616A6B;
@@ -57,7 +59,21 @@ body {
 	margin-right: auto;
 	height: 260px;
 	font-size: 20;
-	line-height: 2
-
+	line-height: 2;
 	border-style: double;
+	margin-top: 50px;
+	padding-bottom: 29px;
+}
+#Nav_Links:link {
+	color: #F1C40F;
+
+}
+#Nav_Links:visited {
+	color: #9A7D0A;
+}
+#Nav_Links:hover {
+	color: #F4D03F;
+}
+#Nav_Links:active {
+	color: #F1C40F;
 }
