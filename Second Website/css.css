@@ -77,3 +77,7 @@ body {
 #Nav_Links:active {
 	color: #F1C40F;
 }
+#Ball {
+	position: 1210px
+	background-color: red;
+}
