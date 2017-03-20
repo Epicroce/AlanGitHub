@@ -42,6 +42,7 @@
 	border-style: solid;
 	margin-right: 12px;
 	margin-left: 12px;
+	margin-top: 0px;
 }
 #Writing {
 	background-color: #616A6B;
@@ -77,9 +78,19 @@ body {
 #Nav_Links:active {
 	color: #F1C40F;
 }
-#Ball {
+#Cube {
+	display: inline-block;
+	background-color: red;
+	width:50px;
+	height: 50px;
 	transition: transform 600ms ease-in-out
 }
-#ball:hover {
-	transform: translate(1000px, 0px, 1000px, 0px);
+#Trigger:hover #Cube {
+	transform: translate(1200px);
+}
+#Trigger {
+	width: 70px;
+	height: 70px;
+	padding-bottom: 0px;
+	margin-top: 10px;
 }
