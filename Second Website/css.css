@@ -1,5 +1,5 @@
 #Header {
-	background-color: #A6ACAF;
+	background-color: #2C2D3D;
 	padding: 10px;
 	border-style: solid;
 	margin: 10px;
@@ -11,7 +11,7 @@
 #Nav {
 	float: left;
 	width: 260px;
-	background-color: #A6ACAF;
+	background-color: #2C2D3D;
 	height: 390px;
 	border-style: solid;
 	margin-right: 20px;
@@ -24,7 +24,7 @@
 }
 #Main {
 	width: 745px;
-	background-color: #A6ACAF;
+	background-color: #2C2D3D;
 	border-style: solid;
 	margin-top: 5px;
 	text-indent: 10px;
@@ -37,7 +37,7 @@
 }
 #Footer {
 	clear: both;
-	background-color: #A6ACAF;
+	background-color: #2C2D3D;
 	margin-top: 40px;
 	border-style: solid;
 	margin-right: 12px;
@@ -45,14 +45,14 @@
 	margin-top: 0px;
 }
 #Writing {
-	background-color: #616A6B;
+	background-color: #3F404D;
 	border-style: double;
 }
 body {
-	background-color: #909497;
+	background-color: #182FF1;
 }
 #Nav_Writing {
-	background-color: #616A6B;
+	background-color: #3F404D;
 	padding-right: 10px;
 	padding-left: 10px;
 	width: 170px;
